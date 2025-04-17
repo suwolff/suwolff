@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python and ML
-- 💬 Ask me about statistics
+- 🌱 I’m currently learning ML and OOP
+- 💬 Ask me anything about statistics
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm really short!
